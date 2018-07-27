@@ -1,2 +1,4 @@
-# vandari.github.io
-https://pubg.host
+# pubg.host
+
+
+Repository for https://pubg.host
